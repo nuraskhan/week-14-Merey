@@ -11,7 +11,7 @@ To run this project locally, follow these steps:
 2. **Go inside directory:**
 
    ```bash
-   cd w_14
+   cd w14
 3. **Run the code:**
 
    ```bash
